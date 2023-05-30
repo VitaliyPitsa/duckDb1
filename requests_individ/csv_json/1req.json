@@ -1,0 +1,46 @@
+[
+    {
+        "field1": "name",
+        "field2": "rating"
+    },
+    {
+        "field1": "Pulp Fiction",
+        "field2": "8.9"
+    },
+    {
+        "field1": "The Lord of the Rings: The Fellowship of the Ring",
+        "field2": "8.8"
+    },
+    {
+        "field1": "The Good, the Bad and the Ugly",
+        "field2": "8.8"
+    },
+    {
+        "field1": "Forrest Gump",
+        "field2": "8.8"
+    },
+    {
+        "field1": "Fight Club",
+        "field2": "8.8"
+    },
+    {
+        "field1": "The Lord of the Rings: The Two Towers",
+        "field2": "8.8"
+    },
+    {
+        "field1": "Inception",
+        "field2": "8.8"
+    },
+    {
+        "field1": "Star Wars: Episode V - The Empire Strikes Back",
+        "field2": "8.7"
+    },
+    {
+        "field1": "The Matrix",
+        "field2": "8.7"
+    },
+    {
+        "field1": "Goodfellas",
+        "field2": "8.7"
+    }
+]

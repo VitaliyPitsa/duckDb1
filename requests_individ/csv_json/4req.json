@@ -1,0 +1,18 @@
+[
+    {
+        "field1": "name",
+        "field2": "genre"
+    },
+    {
+        "field1": "The Shawshank Redemption",
+        "field2": "Drama"
+    },
+    {
+        "field1": "Fight Club",
+        "field2": "Drama"
+    },
+    {
+        "field1": "One Flew Over the Cuckoo's Nest",
+        "field2": "Drama"
+    }
+]

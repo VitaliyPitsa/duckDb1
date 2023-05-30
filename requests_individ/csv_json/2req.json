@@ -1,0 +1,46 @@
+[
+    {
+        "field1": "name",
+        "field2": "year"
+    },
+    {
+        "field1": "The Shawshank Redemption",
+        "field2": "1994"
+    },
+    {
+        "field1": "Schindler's List",
+        "field2": "1993"
+    },
+    {
+        "field1": "The Lord of the Rings: The Return of the King",
+        "field2": "2003"
+    },
+    {
+        "field1": "Pulp Fiction",
+        "field2": "1994"
+    },
+    {
+        "field1": "The Lord of the Rings: The Fellowship of the Ring",
+        "field2": "2001"
+    },
+    {
+        "field1": "Forrest Gump",
+        "field2": "1994"
+    },
+    {
+        "field1": "Fight Club",
+        "field2": "1999"
+    },
+    {
+        "field1": "The Lord of the Rings: The Two Towers",
+        "field2": "2002"
+    },
+    {
+        "field1": "The Matrix",
+        "field2": "1999"
+    },
+    {
+        "field1": "Goodfellas",
+        "field2": "1990"
+    }
+]

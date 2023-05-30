@@ -1,0 +1,46 @@
+[
+    {
+        "field1": "name",
+        "field2": "budget"
+    },
+    {
+        "field1": "The Godfather Part II",
+        "field2": "13000000"
+    },
+    {
+        "field1": "The Good, the Bad and the Ugly",
+        "field2": "1200000"
+    },
+    {
+        "field1": "Inception",
+        "field2": "160000000"
+    },
+    {
+        "field1": "Star Wars: Episode V - The Empire Strikes Back",
+        "field2": "18000000"
+    },
+    {
+        "field1": "Seven Samurai",
+        "field2": "125000000"
+    },
+    {
+        "field1": "City of God",
+        "field2": "$3300000"
+    },
+    {
+        "field1": "Interstellar",
+        "field2": "165000000"
+    },
+    {
+        "field1": "Star Wars: Episode IV - A New Hope",
+        "field2": "11000000"
+    },
+    {
+        "field1": "Terminator 2: Judgment Day",
+        "field2": "102000000"
+    },
+    {
+        "field1": "Parasite",
+        "field2": "11400000"
+    }
+]
